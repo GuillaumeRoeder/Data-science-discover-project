@@ -1,0 +1,2 @@
+# Data-science-discover-project
+project with multiple workshop that I realised to create multiple python notebook and use machine learning algorithms
